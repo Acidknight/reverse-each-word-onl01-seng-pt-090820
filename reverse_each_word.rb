@@ -3,4 +3,5 @@ def reverse_each_word(string)
   statement = string.split(" ")
   words = []
   words = string.collect {|word| words.reverse }
+  words.join(" ")
 end
