@@ -1,4 +1,4 @@
-def reverse_each_word
+def reverse_each_word(string)
   statement = "Hello there, and how are you?"
   new_array = statement.split(" ")
   words = []
