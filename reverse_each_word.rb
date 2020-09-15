@@ -1,5 +1,5 @@
 def reverse_each_word(string)
-  string = "Hello there, and how are you?"
+  string = "Hi, again just making sure it's reversed!"
   statement = string.split(" ")
   words = []
   words = statement.collect {|word| word.reverse }
