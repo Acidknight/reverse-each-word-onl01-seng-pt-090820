@@ -1,5 +1,5 @@
 def reverse_each_word(string)
-  statement = "Hello there, and how are you?"
-  new_array = statement.split(" ")
+  string = "Hello there, and how are you?"
+  new_array = string.split(" ")
   words = []
 end
