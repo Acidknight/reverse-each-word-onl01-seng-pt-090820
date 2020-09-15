@@ -1,4 +1,4 @@
 def reverse_each_word
   statement = "Hello there, and how are you?"
-  puts statement.split(" ")
+  new_array = statement.split
 end
