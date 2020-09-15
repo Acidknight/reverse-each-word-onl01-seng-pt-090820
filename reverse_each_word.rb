@@ -1,3 +1,4 @@
 def reverse_each_word
-  statement = ""
+  statement = "Hello there, and how are you?"
+  
 end
